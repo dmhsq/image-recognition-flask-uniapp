@@ -1,0 +1,54 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		}
+	    ,{
+            "path" : "pages/apiuse/apiuse",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/mine/mine",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "历史记录",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+			"color": "#7A7E83",
+			"selectedColor": "#007AFF",
+			"borderStyle": "black",
+			"backgroundColor": "#F8F8F8",
+			"list": [
+				{
+					"pagePath": "pages/index/index",
+					"iconPath": "static/api-none.png",
+					"selectedIconPath": "static/api.png",
+					"text": "主页"
+				},
+				{
+					"pagePath": "pages/mine/mine",
+					"iconPath": "static/his-none.png",
+					"selectedIconPath": "static/his.png",
+					"text": "识别历史"	
+				}
+			]
+		}	
+}

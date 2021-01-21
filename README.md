@@ -9,6 +9,9 @@
 ## 程序运行图
 
 <br />
+demo-image文件夹
+<br />
+
 flask uniapp开发图像识别小程序
 <br />
 前端 uni-app

@@ -1,0 +1,1 @@
+<view class="t-th" style="{{'border-width:'+(thBorder+'px')+';'+('border-color:'+(borderColor)+';')+('font-size:'+(fontSize+'px')+';')+('color:'+(color)+';')+('justify-content:'+(thAlignCpd)+';')}}"><slot></slot></view>

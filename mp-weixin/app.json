@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/apiuse/apiuse",
+    "pages/mine/mine"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/api-none.png",
+        "selectedIconPath": "static/api.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/his-none.png",
+        "selectedIconPath": "static/his.png",
+        "text": "识别历史"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap89.json"
+}

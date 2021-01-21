@@ -1,4 +1,4 @@
-# image-recognition-flask-uniapp
+# 图像识别小程序
 
 <br />
 博客文章地址 [文章地址](https://blog.csdn.net/qq_42027681/article/details/112916576)
@@ -8,9 +8,10 @@
 
 ## 程序运行图
 
-<br />
 demo-image文件夹
 <br />
+
+## 说明
 
 flask uniapp开发图像识别小程序
 <br />

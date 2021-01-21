@@ -1,17 +1,11 @@
 from aip import AipImageClassify
 
-APP_ID = '22945433'
-API_KEY = 'DNTCcEUiCMyfS2L87LlmZelk'
-SECRET_KEY = '4CAHATfysu3dVEGzOSEGAWeIkTDpGWoK'
+""" 你的 APPID AK SK """
+APP_ID = '你的 App ID'
+API_KEY = '你的 Api Key'
+SECRET_KEY = '你的 Secret Key'
 
 client = AipImageClassify(APP_ID, API_KEY, SECRET_KEY)
-
-# """ 读取图片 """
-# def get_file_content(filePath):
-#     with open(filePath, 'rb') as fp:
-#         return fp.read()
-#
-# image = get_file_content('1.jpg')
 
 def get_imgGeneral(type,image):
     if(type==0):
@@ -46,16 +40,3 @@ def __plant(image):
 """ 调用食材识别 """
 def __ingred(image):
     return client.ingredient(image);
-
-
-
-# """ 调用通用物体识别 """
-# def get_test():
-#     c = client.advancedGeneral(image);
-#     return c;
-# """ 如果有可选参数 """
-# options = {}
-# options["baike_num"] = 5
-#
-# """ 带参数调用通用物体识别 """
-# client.advancedGeneral(image, options)

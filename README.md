@@ -5,7 +5,14 @@
 <br />
 博客地址 [博客地址](https://blog.csdn.net/qq_42027681)
 <br />
+体验地址
+[http://dadandmother.cn/stt](http://dadandmother.cn/stt)
+<br />
 qq小程序已上线 : 狗哥识图
+<br />
+微信小程序已上线 : 狗哥识图
+<br />
+bilibili教程地址[https://www.bilibili.com/video/BV1R5411H7r2/](https://www.bilibili.com/video/BV1R5411H7r2/)
 <br />
 
 ## 程序运行图

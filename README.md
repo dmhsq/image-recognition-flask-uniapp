@@ -1,18 +1,18 @@
 # 图像识别小程序
 
 <br />
-博客文章地址 [文章地址](https://blog.csdn.net/qq_42027681/article/details/112916576)
+博客文章地址 https://blog.csdn.net/qq_42027681/article/details/112916576
 <br />
-博客地址 [博客地址](https://blog.csdn.net/qq_42027681)
+博客地址 https://blog.csdn.net/qq_42027681
 <br />
 体验地址
-[http://dadandmother.cn/stt](http://dadandmother.cn/stt)
+http://dadandmother.cn/stt
 <br />
 qq小程序已上线 : 狗哥识图
 <br />
 微信小程序已上线 : 狗哥识图
 <br />
-bilibili教程地址[https://www.bilibili.com/video/BV1R5411H7r2/](https://www.bilibili.com/video/BV1R5411H7r2/)
+bilibili教程地址https://www.bilibili.com/video/BV1R5411H7r2/
 <br />
 
 ## 程序运行图

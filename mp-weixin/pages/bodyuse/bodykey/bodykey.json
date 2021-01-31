@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "人体关键点位分析",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "helang-compress": "/components/helang-compress/helang-compress",

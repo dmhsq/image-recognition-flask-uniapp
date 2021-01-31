@@ -2,7 +2,18 @@
   "pages": [
     "pages/index/index",
     "pages/apiuse/apiuse",
-    "pages/mine/mine"
+    "pages/mine/mine",
+    "pages/speech/speech",
+    "pages/image/image",
+    "pages/viouse/viouse",
+    "pages/bodys/bodys",
+    "pages/bodyuse/bodykey/bodykey",
+    "pages/bodyuse/bodyattr/bodyattr",
+    "pages/bodyuse/bodynum/bodynum",
+    "pages/bodyuse/bodygesture/bodygesture",
+    "pages/bodyuse/bodyseg/bodyseg",
+    "pages/voicehost/voicehost",
+    "pages/tests/tests"
   ],
   "subPackages": [],
   "window": {
@@ -31,6 +42,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap89.json"
+  "usingComponents": {}
 }

@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "人体属性",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "helang-compress": "/components/helang-compress/helang-compress",

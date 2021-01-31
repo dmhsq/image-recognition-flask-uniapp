@@ -1,8 +1,9 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "图像分割",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "helang-compress": "/components/helang-compress/helang-compress",
+    "t-color-picker": "/components/t-color-picker/t-color-picker",
     "t-table": "/components/t-table/t-table",
     "t-th": "/components/t-table/t-th",
     "t-tr": "/components/t-table/t-tr",

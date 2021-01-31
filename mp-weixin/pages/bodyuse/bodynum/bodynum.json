@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "人群人数",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "helang-compress": "/components/helang-compress/helang-compress",

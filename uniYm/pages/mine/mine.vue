@@ -46,6 +46,15 @@
 		onShow() {
 			this.getData();
 		},
+		mounted() {
+			// qq.showShareMenu({
+			//   showShareItems: ['qq', 'qzone', 'wechatFriends', 'wechatMoment']
+			// })
+			// wx.showShareMenu({
+			//   withShareTicket: true,
+			//   menus: ['shareAppMessage', 'shareTimeline']
+			// })
+		},
 		methods: {
 			getData(){
 				uni.showLoading({

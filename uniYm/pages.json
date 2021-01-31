@@ -24,6 +24,105 @@
             }
             
         }
+        ,{
+            "path" : "pages/speech/speech",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "语音合成",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/image/image",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "图像识别",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/viouse/viouse",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "自定义语音合成",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bodys/bodys",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人体分析",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bodyuse/bodykey/bodykey",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人体关键点位分析",
+                "enablePullDownRefresh": false
+            }
+     
+        }
+        ,{
+            "path" : "pages/bodyuse/bodyattr/bodyattr",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人体属性",
+                "enablePullDownRefresh": false
+            }
+             
+        }
+        ,{
+            "path" : "pages/bodyuse/bodynum/bodynum",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人群人数",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bodyuse/bodygesture/bodygesture",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "手势",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bodyuse/bodyseg/bodyseg",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "图像分割",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/voicehost/voicehost",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/tests/tests",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

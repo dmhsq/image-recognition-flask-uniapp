@@ -7,13 +7,11 @@
 			</view>
 		</view>
 		<uni-list>
-			 <uni-list-item title="图像识别"  showArrow thumb="/static/img/mianim.png" thumb-size="base" clickable @click="goSb(2)" />
-			 <uni-list-item title="语音合成"  showArrow thumb="/static/img/yp.png" thumb-size="base" clickable @click="goSb(1)" />
-			 <uni-list-item title="人体识别"  showArrow thumb="/static/img/bodysee.png" thumb-size="base" clickable @click="goSb(3)" />
-			 <!-- <uni-list-item title="车辆识别"  showArrow thumb="/static/img/car.png" thumb-size="base" clickable @click="goSb(2)" />
+			 <uni-list-item title="动物识别"  showArrow thumb="/static/img/animal.png" thumb-size="base" clickable @click="goSb(0)" />
+			 <uni-list-item title="植物识别"  showArrow thumb="/static/img/botany.png" thumb-size="base" clickable @click="goSb(3)" />
+			 <uni-list-item title="车辆识别"  showArrow thumb="/static/img/car.png" thumb-size="base" clickable @click="goSb(2)" />
 			 <uni-list-item title="菜品识别"  showArrow thumb="/static/img/foods.png" thumb-size="base" clickable @click="goSb(1)" />
-			 <uni-list-item title="果蔬识别"  showArrow thumb="/static/img/food.png" thumb-size="base" clickable @click="goSb(4)" /> -->
-			 <uni-list-item title="清除历史"  showArrow thumb="/static/img/laji.png" thumb-size="base" clickable @click="qclocal()" />
+			 <uni-list-item title="果蔬识别"  showArrow thumb="/static/img/food.png" thumb-size="base" clickable @click="goSb(4)" />
 		</uni-list>
 	</view>
 	
@@ -23,7 +21,7 @@
 	export default {
 		data() {
 			return {
-				title: '狗哥生活工具',
+				title: '狗哥带你图像识别',
 				src: ''
 			}
 		},
@@ -68,21 +66,9 @@
 				})
 			},
 			goSb(i){
-				if(i==2){
-					uni.navigateTo({
-						url:'../image/image'
-					})
-				}
-				if(i==1){
-					uni.navigateTo({
-						url:'../speech/speech'
-					})
-				}
-				if(i==3){
-					uni.navigateTo({
-						url:'../bodys/bodys'
-					})
-				}
+				uni.navigateTo({
+					url:'../apiuse/apiuse?type='+i
+				})
 			}
 		}
 	}
@@ -117,3 +103,4 @@
 		color: #8f8f94;
 	}
 </style>
+

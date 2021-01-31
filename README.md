@@ -12,6 +12,10 @@ qq小程序已上线 : 狗哥识图
 <br />
 微信小程序已上线 : 狗哥识图
 <br />
+抖音小程序已上线 : 狗哥工具
+<br />
+头条小程序已上线 : 狗哥工具
+<br />
 bilibili教程地址https://www.bilibili.com/video/BV1R5411H7r2/
 <br />
 

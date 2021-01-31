@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "语音合成",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item"
+  }
+}

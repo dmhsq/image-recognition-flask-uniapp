@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "自定义语音合成",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

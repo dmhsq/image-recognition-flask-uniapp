@@ -35,6 +35,8 @@ flask uniapp开发图像识别小程序
 
 ## 后端
 
+flask-service文件夹的start.sh为启动脚本
+<br />
 flask-service文件夹
 <br />
 拖动到开发工具

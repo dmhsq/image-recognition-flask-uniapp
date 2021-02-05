@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-DI_INS=python3
+DI_INS=python
 APP_NAME=app_service.py
 start(){
   is_starting

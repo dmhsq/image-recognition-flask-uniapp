@@ -1,5 +1,6 @@
 # 图像识别,人体检测，抠图，语音合成小程序
 
+
 <br />
 博客文章地址 https://blog.csdn.net/qq_42027681/article/details/112916576
 <br />
@@ -9,10 +10,20 @@
 http://dadandmother.cn/stt
 <br />
 qq小程序已上线 : 狗哥识图
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210201003715539.png)
+
+
 <br />
 微信小程序已上线 : 狗哥识图
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210201003526366.jpg)
+
 <br />
 抖音小程序已上线 : 狗哥工具
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210201003625968.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMDI3Njgx,size_16,color_FFFFFF,t_70)
+
 <br />
 头条小程序已上线 : 狗哥工具
 <br />
